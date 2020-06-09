@@ -4,7 +4,7 @@ This repository is the source code of the following paper (cite the paper when u
 
 N. Safinianaini and C. P. E. de Souza and H. Boström and J. Lagergren, 
 "Orthogonal Mixture of Hidden Markov Models" 2020 ECML PKDD 
-(https://ecmlpkdd2020.net/programme/accepted/)
+(https://ecmlpkdd2020.net/programme/accepted/) The paper will be available in September 2020
 
 The implementation is based on the standard EM for MHMM implementation from this paper (we disabled the sparsity feature):
 
