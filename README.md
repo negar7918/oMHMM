@@ -24,8 +24,13 @@ pp. 1–10 (2019)
 **Required Softwares** 
 
 Python 3.6.2
+
 hmmlearn 0.2.1
+
 cvxpy 1.0.21
+
 numpy 1.16.2
+
 scikit-learn 0.19.1
+
 scipy 1.1.0
