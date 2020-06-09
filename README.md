@@ -1,6 +1,6 @@
 # oMHMM (Orthogonal Mixture of Hidden Markov Models) #
 
-This is the source code of the following paper:
+This repository is the source code of the following paper (cite the paper when using it):
 
 N. Safinianaini and C. P. E. de Souza and H. Boström and J. Lagergren, 
 "Orthogonal Mixture of Hidden Markov Models" 2020 ECML PKDD 
