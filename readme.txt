@@ -2,7 +2,9 @@ oMHMM (Orthogonal Mixture of Hidden Markov Models)
 
 This is the source code of the following paper:
 
-N. Safinianaini and C. P. E. de Souza and H. Boström and J. Lagergren, "Orthogonal Mixture of Hidden Markov Models" 2020 ECML PKDD (https://ecmlpkdd2020.net/programme/accepted/)
+N. Safinianaini and C. P. E. de Souza and H. Boström and J. Lagergren, 
+"Orthogonal Mixture of Hidden Markov Models" 2020 ECML PKDD 
+(https://ecmlpkdd2020.net/programme/accepted/)
 
 The implementation is based on the standard EM for MHMM implementation from this paper (we disabled the sparsity feature):
 
