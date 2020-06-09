@@ -1,4 +1,4 @@
-##oMHMM (Orthogonal Mixture of Hidden Markov Models)##
+# oMHMM (Orthogonal Mixture of Hidden Markov Models) #
 
 This is the source code of the following paper:
 
