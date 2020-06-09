@@ -1,4 +1,4 @@
-<h1>oMHMM (Orthogonal Mixture of Hidden Markov Models)<\h1>
+**oMHMM (Orthogonal Mixture of Hidden Markov Models)**
 
 This is the source code of the following paper:
 
@@ -14,14 +14,14 @@ pp. 1–10 (2019)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-Datasets
+**Datasets**
 - digits: “pen-based recognition of hand- written digits” dataset in the UCI machine learning repository.
 - biology: from the NCBI Sequence Read Archive (SRA) under accession number SRP074289; for pre-processing see readme in directory tests/biology. 
 - movements: Libras movement dataset from the UCI machine learning repository. 
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-The softwares needed to run the experiments:
+**Required Softwares** 
 
 Python 3.6.2
 hmmlearn 0.2.1
