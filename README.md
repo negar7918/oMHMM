@@ -34,3 +34,9 @@ numpy 1.16.2
 scikit-learn 0.19.1
 
 scipy 1.1.0
+
+------------------------------------------------------------------------------------------------------------------------------
+
+**Note** 
+
+Due to the double-blinded review of ECML, this code was earlier created by myself, however, anonymously under the contributer name ecml20200330.
