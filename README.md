@@ -10,7 +10,8 @@ The implementation is based on the standard EM for MHMM implementation from this
 
 Spamhmm: Sparse mixture of hidden markov models for graph connected entities.
 2019 International Joint Conference on Neural Networks(IJCNN)
-pp. 1–10 (2019)
+pp. 1–10 
+(2019)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
